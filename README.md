@@ -1,0 +1,1 @@
+# NWheels.Authorization.Adapter.Dotnet
